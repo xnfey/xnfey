@@ -11,5 +11,5 @@
 
 
 
-[solver algorithm](./packages/solver/README.md)
+[baza kormit](./packages/solver/README.md)
 
